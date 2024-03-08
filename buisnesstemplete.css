@@ -148,7 +148,7 @@ color: #14BF98;
     object-fit: cover;
 }
 .card i{
-    /* background-color: #14BF98; */
+    
     color: #14BF98;
     margin-right: 10px;
 }
@@ -245,10 +245,7 @@ color: #14BF98;
     object-fit: cover;
 }
 
-/* .help p{
-    margin-left: 10px;
-   
-} */
+
 #buisness1{
     color: #14BF98;
     font-weight: 700;
@@ -477,6 +474,7 @@ color: #14BF98;
     transform: scale(1.09);
     transition: 0.7s;
    
+   
 }
 
 
@@ -491,51 +489,7 @@ color: #14BF98;
     position: relative;
     margin-top: 40px;
 }
-/* 
-.par1{
-    top: 10px;
-    left: 30px;
-    position: absolute;
-}
-.par2{
-    top: 10px;
-    left: 40px;
-    position: absolute;
-}
-.par3{
-    top: 10px;
-    left: 50px;
-    position: absolute;
-}
-.par4{
-    top: 458px;
-    left: 60px;
-    position: absolute;
-} */
-/* .par5{
-    top: 458px;
-    left: 435px;
-    position: absolute;
-}
-.par6{
-    top: 458px;
-    left: 440px;
-    position: absolute;
-}
-.par7{
-    top: 458px;
-    left: 776px;
-    position: absolute;
-}
-.par8 {
-    top: 458px;
-    left: 1106px;
-    position: absolute;
-} */
 
-/* .projectimage{
-    position: relative;
-} */
 .par {
     position: absolute;
     top: 146px;
@@ -659,12 +613,12 @@ font-weight: 700;
 }
 .userlink a{
     color: white  ;
-    /* margin: 5px; */
+   
     background-color: #14BF98;    
     font-size: 35px;
     padding: 10px 24px;
     
-    /* clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%); */
+  
 }
 .userlink a i:hover{
     background-color: transparent;
