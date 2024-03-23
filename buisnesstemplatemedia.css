@@ -1,0 +1,152 @@
+@media screen and (min-width:320px) and (max-width:570px){
+
+    .background1 {
+        height: 193vh !important;
+    }
+    .starthead h1{
+        font-size: 33px !important;
+    }
+    .services{
+        margin-top: 0 !important;
+    }
+    .suit {
+        margin-top: 55px !important;
+    }
+    .detail1 a{
+        top: 461px !important;
+        left: 87px !important;
+       
+    }
+    .detail2 a{
+
+        top: 435px !important;
+        left: 83px !important;
+    }
+    .detail3 a{
+
+        top: 436px !important;
+        left: 90px !important;
+    }
+    .quality {
+        margin-top: 0px !important;
+        margin: 26px !important;
+        padding: 0px !important;
+    }
+    .accer2 h4{
+        margin-top: 34px !important;
+        font-size: 24px !important;
+    } 
+    .callme{
+        height: 287vh !important;
+    }
+    .calling a {
+      
+        padding: 10px 74px !important;
+        
+    }
+    .design{
+        margin-top: 25px !important;
+    }
+    .linked {
+        margin: 7px 0px 16px 0 !important;
+    }
+    .projectimage {
+        padding-left: 10px !important;
+    }
+    #about {
+        margin-top: 15px !important;
+        text-align: center !important;
+    }
+    .aboutcontent {
+        padding: 0px !important;
+    }
+    .aboutcont {
+        flex-direction: column;
+        padding-left: 0px !important;
+    }
+    .phone {
+        margin-top: 45px !important;
+        
+        padding-top: 0px !important;
+    }
+    #cotepara {
+        text-align: center !important;
+    }
+    .userlink a {
+        font-size: 23px !important;
+        padding: 0px 24px !important;
+    }
+    .form-control {
+        margin-top: 10px !important;
+}
+.submitmsg a{
+    padding: 10px 45px !important;
+}
+}
+
+
+@media screen and (min-width:570px) and (max-width:1024px){
+
+
+.background1 {
+    height: 154vh !important;
+}
+.services {
+    margin-top: 0px !important;
+
+}
+.suit {
+    margin-top: 55px !important;
+}
+.detail1 a {
+    left: 95px !important;
+}
+.detail2 a{
+    top: 462px !important;
+    left: 105px !important;
+}
+.detail3 a{
+    top: 463px !important;
+    left: 99px !important;
+}
+.accer2 {
+    width: 100%;
+    padding: 0px !important;
+}
+#conceptonline {
+    margin-left: 3.4rem !important;
+}
+.quality {
+    margin-top: 0px !important;
+    /* padding: 0px 163px; */
+    padding: 30px !important;
+}
+.calling a{
+    padding: 16px 103px !important;
+}
+
+.linked a{
+    padding: 4px 6px !important;
+}
+.linked {
+    margin: 16px 9px 0px 0px !important;
+}
+.aboutcontent {
+    padding: 0px !important;
+}
+.aboutcont {
+    flex-direction: column;
+    padding-left: 0px !important;
+}
+.submitmsg a {
+    padding: 10px 64px !important;
+}
+.userlink a{
+    padding: 0px 5px !important;
+}
+}
+
+
+  
+        
+       

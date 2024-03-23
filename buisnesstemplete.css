@@ -13,10 +13,14 @@ header{
    left: 0;
    
    width: 100%;
-  
-  
-
    
+}
+body {
+    overflow-x: hidden;
+
+}
+#typethemsg{
+    width: 100%;
 }
 
 #homeclr {
@@ -274,8 +278,11 @@ color: #14BF98;
 }
 .concept {
     color: grey;
-    margin-left: 46px;
+    /* margin-left: 46px; */
    
+}
+#conceptonline{
+    margin-left: 3rem;
 }
 .accer2 h4{
     margin-top: 34px;
