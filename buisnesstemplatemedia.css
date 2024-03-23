@@ -13,18 +13,19 @@
         margin-top: 55px !important;
     }
     .detail1 a{
-        top: 461px !important;
+        top: 475px !important;
         left: 87px !important;
        
     }
+   
     .detail2 a{
 
-        top: 435px !important;
+        top: 456px !important;
         left: 83px !important;
     }
     .detail3 a{
 
-        top: 436px !important;
+        top: 457px !important;
         left: 90px !important;
     }
     .quality {
@@ -37,7 +38,7 @@
         font-size: 24px !important;
     } 
     .callme{
-        height: 287vh !important;
+        height: 100vh !important;
     }
     .calling a {
       
@@ -82,7 +83,18 @@
 .submitmsg a{
     padding: 10px 45px !important;
 }
+
+#conceptonline {
+    margin-left: 0rem !important;
 }
+
+#choose {
+    padding: 0px 10px !important;
+}
+}
+
+
+/* ************************************************************************************************ */
 
 
 @media screen and (min-width:570px) and (max-width:1024px){
