@@ -1,7 +1,7 @@
 @media screen and (min-width:320px) and (max-width:570px){
 
     .background1 {
-        height: 193vh !important;
+        height: 100vh !important;
     }
     .starthead h1{
         font-size: 33px !important;
